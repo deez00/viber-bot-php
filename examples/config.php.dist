@@ -4,6 +4,6 @@
  * Copy to "config.php" and set you values here:
  */
 return [
-    'apiKey' => '<PLACE-YOU-API-KEY-HERE>',
-    'webhookUrl' => '<PLACE-YOU-HTTPS-URL>',
+    'apiKey' => '47ceb1d91e67d48c-df1f116c5437aa9f-cce49e527b22ad53',
+    'webhookUrl' => 'viber://pa?chatURI=testbt',
 ];
